@@ -4,3 +4,7 @@ NUnit3AllureAdapter/bin/
 NUnit.Extension.NUnitAllureTestAdapter/bin/
 NUnit3AllureAdapter/obj/
 packages/
+output.xml
+TestsResult2.xml
+WriteLines2.txt
+allure-results/

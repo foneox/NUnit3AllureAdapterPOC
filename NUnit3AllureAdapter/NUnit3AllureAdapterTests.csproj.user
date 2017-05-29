@@ -4,6 +4,6 @@
     <StartAction>Program</StartAction>
     <StartProgram>C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe</StartProgram>
     <StartArguments>-ExecutionPolicy ByPass -File ".\NUnit3AllureAdapter\run-tests.ps1"</StartArguments>
-    <StartWorkingDirectory>D:\Dropbox\Dropbox\Pad Projects\NUnit3AllureAdapter\</StartWorkingDirectory>
+    <StartWorkingDirectory>..\..\..\</StartWorkingDirectory>
   </PropertyGroup>
 </Project>
