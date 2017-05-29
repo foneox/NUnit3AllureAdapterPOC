@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit3AllureAdapterTests", "NUnit3AllureAdapter\NUnit3AllureAdapterTests.csproj", "{36DB4F9D-CB4F-4576-AB57-33E0DC44F836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Extension.NUnitAllureTestAdapter", "NUnit.Extension.NUnitAllureTestAdapter\NUnit.Extension.NUnitAllureTestAdapter.csproj", "{2BF0A075-68B1-4E8D-AAF0-FCCAB4E64587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DB4F9D-CB4F-4576-AB57-33E0DC44F836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DB4F9D-CB4F-4576-AB57-33E0DC44F836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DB4F9D-CB4F-4576-AB57-33E0DC44F836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DB4F9D-CB4F-4576-AB57-33E0DC44F836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF0A075-68B1-4E8D-AAF0-FCCAB4E64587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF0A075-68B1-4E8D-AAF0-FCCAB4E64587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF0A075-68B1-4E8D-AAF0-FCCAB4E64587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF0A075-68B1-4E8D-AAF0-FCCAB4E64587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+.vs/
+NUnit.Extension.NUnitAllureTestAdapter/obj/
+NUnit3AllureAdapter/bin/
+NUnit.Extension.NUnitAllureTestAdapter/bin/
+NUnit3AllureAdapter/obj/
+packages/
