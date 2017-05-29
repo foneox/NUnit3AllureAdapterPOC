@@ -3,6 +3,7 @@
 
 namespace NUnit3AllureAdapterTests
 {
+    [Parallelizable]
     [TestFixture]
     public class TestsClass
     {
